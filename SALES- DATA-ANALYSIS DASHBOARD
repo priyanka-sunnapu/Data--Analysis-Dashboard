@@ -1,0 +1,97 @@
+## Ecommerce Sales Data  Dashboard
+#Project Development
+Sales Dashboard
+🥲 Ecommerce Sales Data Dashboard.
+
+🎉 Celebrating Ecommerce Sales Excellence Through Data!
+
+
+
+ 🥳 I’m excited to share my latest project: Ecommerce Sales Dashboard,
+
+Which covers region wise sales, profits, and which products are mostly like for purchasing.
+
+🗯️ USE -Merging the tables, and cleaning data in power query,  for in detail using measures (Profit Margin), KPI, slicer, buttons (page navigation).
+
+
+
+    🫥  Visuals-Pie charts, donut charts, Map, Slicer, Funnel Charts, Clustered Column Charts, Stacked Area Chart.
+
+
+
+    💫 Overview:
+
+The Ecommerce Sales Dashboard provides a comprehensive summary of sales performance and customer insights. 
+
+A map-based visualization showing sales distribution across various countries.
+
+A bar chart representing sales, profit, according to months trends across different product categories.
+
+Key performance indicators (KPIs) such as Total Sales, Total Profit, Total Orders, and Profit Margin.
+
+Detailed charts for regional sales, sales by category, sales rating, and country group contributions.
+
+Month-wise trends for sales, profit, and payment mode preferences.
+
+
+
+
+
+   ⚡ Highlights:
+
+🔯 Geographic Insights:
+
+A global map highlights country-wise sales distribution, allowing a quick understanding of regional performance.
+
+
+
+🔯Product Category Analysis:
+
+ Sales and discounts are broken down by categories like Office Supplies, 
+
+  Technology, and Furniture.
+
+
+
+ Office Supplies leads in sales ($183K), followed by Technology and           Furniture.
+
+
+
+🔯Transaction Details:
+
+A table displays individual transaction data, making it easier to track customer and product-specific insights.
+
+
+
+🔯 Performance KPIs:
+
+Total Sales: $313K
+
+Total Profit: $29K
+
+Total Orders: 1K
+
+Profit Margin: 9.27%
+
+
+
+🔯Month-wise Trends:
+
+The highest sales are recorded in certain months, with an average sales value of $18.4K.
+
+🥲 
+
+🔯Category Performance:
+
+Office Supplies ($182.68K) dominate sales, followed by Technology ($74.38K) and Furniture ($55.81K).
+
+
+
+🔯Payment Mode Analysis:
+
+COD (Cash on Delivery) contributes the most to sales ($137.72K), followed by PayPal and card-based payments.
+
+
+
+This dashboard is ideal for tracking ecommerce performance, identifying top-performing regions and categories, and analyzing customer behavior to drive strategic decisions.
+
